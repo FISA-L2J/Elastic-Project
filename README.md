@@ -60,19 +60,19 @@
 <br>
 <br>
 
-1. **[20대 경험 중시] 아고다 X 우리카드:** 해외여행 및 숙박 특화 카드
+1. **[20대] 아고다 X 우리카드:** 해외여행 및 숙박 특화 카드
 <img width="720" height="483" alt="image" src="https://github.com/user-attachments/assets/badadf3b-bd6f-440e-8368-a76316f6b0c7" />
 
 <br>
 <br>
 
-2. **[40대 프리미엄] 시대인재N X 우리카드:** 교육비 혜택과 더불어 자녀 없는 VIP를 위한 **골프/백화점 바우처** 선택 옵션 제공
+2. **[40대] 시대인재N X 우리카드:** 교육비 혜택 카드
 <img width="719" height="215" alt="image" src="https://github.com/user-attachments/assets/e28cccf0-e239-4f28-85ad-ac3d6b2b19a7" />
 
 <br>
 <br>
 
-3. **[60대 액티브 시니어] 의료 건강 카드:** 병원/약국 할인 및 건강보험료 지원 혜택
+3. **[60대] 의료 건강 카드:** 병원/약국 할인 및 건강보험료 지원 혜택 카드
 <img width="720" height="483" alt="image" src="https://github.com/user-attachments/assets/e9449c82-5a74-4aaa-b27f-1743ce637465" />
 
 <br>
