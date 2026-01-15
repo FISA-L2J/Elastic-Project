@@ -45,7 +45,7 @@
 
 <br>
 
-### Case 1: 연령 별 소비 분야에 따른 PLCC 제안
+### ✅ Case 1: 연령 별 소비 분야에 따른 PLCC 제안
 전 세대 공통으로 '식당' 소비 비중이 높았으나, 세대별로 차이를 보이는 항목 존재
 
 | 연령대 | 핵심 키워드 | 주요 소비 업종|
@@ -78,7 +78,7 @@
 <br>
 <br>
 
-### Case 2: VIP 등 우량 고객(VIP) 집중 분석
+### ✅ Case 2: VIP 등 우량 고객(VIP) 집중 분석
 수익성이 높은 40대 VIP/VVIP 고객을 라이프 스테이지별로 세분화하여 분석
 
 <img width="720" height="556" alt="image" src="https://github.com/user-attachments/assets/fcc0b3ba-c1c7-4c72-8620-e7e74d54e4ff" />
