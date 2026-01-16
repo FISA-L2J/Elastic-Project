@@ -59,9 +59,10 @@ SELECT category, SUM(amount) AS total_amountFROM unpivotedGROUP BY categoryORDER
 
 ### ✅ Case 1: 연령 별 소비 분야에 따른 PLCC 제안
 
-<img width="234" height="285" alt="image" src="https://github.com/user-attachments/assets/7ffef68c-805a-4cfc-a365-62f0a753fb9e" />
-<img width="234" height="285" alt="image" src="https://github.com/user-attachments/assets/fbe1c730-392f-4795-904d-504e6ed369b4" />
-<img width="234" height="284" alt="image" src="https://github.com/user-attachments/assets/1c111a6d-edcf-4f92-b826-afad3d39a40d" />
+| 20대 남녀 | 40대 남녀 | 60대 남녀 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/7ffef68c-805a-4cfc-a365-62f0a753fb9e" width="234"> | <img src="https://github.com/user-attachments/assets/fbe1c730-392f-4795-904d-504e6ed369b4" width="234"> | <img src="https://github.com/user-attachments/assets/1c111a6d-edcf-4f92-b826-afad3d39a40d" width="234"> |
+
 
 <br>
 
