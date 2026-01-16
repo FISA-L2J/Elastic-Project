@@ -81,7 +81,8 @@
 ### ✅ Case 2: VIP 등 우량 고객 집중 분석
 수익성이 높은 40대 VIP/VVIP 고객을 라이프 스테이지별로 세분화하여 분석
 
-<img width="720" height="556" alt="image" src="https://github.com/user-attachments/assets/fcc0b3ba-c1c7-4c72-8620-e7e74d54e4ff" />
+<img width="745" height="627" alt="스크린샷 2026-01-16 오전 8 59 37" src="https://github.com/user-attachments/assets/f6af6afa-0385-440f-a8db-44e84b799320" />
+
 
 * **자녀 동반 그룹 (CHILD_TEEN):** **44.26%** (기존 40대 혜택인 '학원' 중심 소비)
 * **자녀 미동반/독립 그룹:** **약 31~35%** (교육비 대신 여가 및 프리미엄 소비 집중)
