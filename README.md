@@ -58,7 +58,17 @@ SELECT category, SUM(amount) AS total_amountFROM unpivotedGROUP BY categoryORDER
 <br>
 
 ### ✅ Case 1: 연령 별 소비 분야에 따른 PLCC 제안
+
+<img width="234" height="285" alt="image" src="https://github.com/user-attachments/assets/7ffef68c-805a-4cfc-a365-62f0a753fb9e" />
+<img width="234" height="285" alt="image" src="https://github.com/user-attachments/assets/fbe1c730-392f-4795-904d-504e6ed369b4" />
+<img width="234" height="284" alt="image" src="https://github.com/user-attachments/assets/1c111a6d-edcf-4f92-b826-afad3d39a40d" />
+
+<br>
+
 전 세대 공통으로 '식당' 소비 비중이 높았으나, 세대별로 차이를 보이는 항목 존재
+
+
+<br>
 
 | 연령대 | 핵심 키워드 | 주요 소비 업종|
 | :--- | :--- | :--- |
