@@ -49,7 +49,7 @@ ex) 20대 남녀 데이터 SQL
 ```MySQL
 WITH twenties AS (SELECT * FROM wooricarddata WHERE AGE IN ('20', '25')),
      unpivoted
-         AS (SELECT category, amount FROM twenties UNPIVOT ( amount FOR category IN ( RESTRNT_AM, GROCERY_AM, GOODS_AM, CLOTHGDS_AM, CULTURE_AM, LEISURE_P_AM, LEISURE_S_AM, TRVL_AM, FUEL_AM, SVC_AM, HOS_AM, HOTEL_AM, AUTO_AM, APPLNC_AM, OPTIC_AM, BOOK_AM, RPR_AM, KITWR_AM, FABRIC_AM, ACDM_AM, MBRSHOP_AM )) )
+         AS (SELECT category, amount FROM twenties UNPIVOT ( amount FOR category IN ( RESTRNT_AM, ... , FABRIC_AM, ACDM_AM, MBRSHOP_AM )) )
 SELECT category, SUM(amount) AS total_amountFROM unpivotedGROUP BY categoryORDER BY total_amount DESCLIMIT 10;
 ```
 
