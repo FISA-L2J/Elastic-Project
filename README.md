@@ -29,11 +29,9 @@
 * **수익성 하락:** 고금리로 인한 조달 비용 상승 및 가맹점 수수료 인하 압박으로 전반적인 카드사 수익 약화
 * **건전성 악화:** 우리카드 등 주요 카드사의 장기 연체율 급증(전년 대비 약 449% 증가 사례 등)으로 리스크 관리 비상
 
-<br>
 
 **전략적 벤치마킹: 현대카드 PLCC**
-<br>
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e38f5b07-2aac-474c-8772-fd21cf0fb872" />
+<br><img width="690" height="392" alt="image" src="https://github.com/user-attachments/assets/9b5f120f-df04-4352-b945-de0c4ae1e631" />
 <br>(출처: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510301515130040105768)
 
 * **데이터 동맹:** 현대카드는 특정 브랜드와 결합한 PLCC(제휴 카드)를 통해 우량 고객을 선점하고 마케팅 비용을 효율화함
