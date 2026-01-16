@@ -32,6 +32,10 @@
 <br>
 
 **전략적 벤치마킹: 현대카드 PLCC**
+<br>
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e38f5b07-2aac-474c-8772-fd21cf0fb872" />
+<br>(출처: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510301515130040105768)
+
 * **데이터 동맹:** 현대카드는 특정 브랜드와 결합한 PLCC(제휴 카드)를 통해 우량 고객을 선점하고 마케팅 비용을 효율화함
 * -> 우리카드 또한 데이터 기반의 **'우량 고객(VIP) 선별 유치'** 와 **'타겟형 PLCC'** 도입이 필수적
 
@@ -43,6 +47,7 @@
 ### ⚙️ 데이터 전처리 
 * **DuckDB**를 활용해 로컬에서 SQL로 데이터를 가공
 
+ex) 20대 남녀 데이터 SQL
 ```MySQL
 WITH twenties AS (SELECT * FROM wooricarddata WHERE AGE IN ('20', '25')),
      unpivoted
