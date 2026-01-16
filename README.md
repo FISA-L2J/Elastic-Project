@@ -65,10 +65,9 @@ SELECT category, SUM(amount) AS total_amountFROM unpivotedGROUP BY categoryORDER
 
 
 <br>
-
 전 세대 공통으로 '식당' 소비 비중이 높았으나, 세대별로 차이를 보이는 항목 존재
 
-
+<br>
 <br>
 
 | 연령대 | 핵심 키워드 | 주요 소비 업종|
