@@ -26,7 +26,7 @@
 
 ## 3. 📉 카드사 동향 파악
 
-* **수익성 하락:** 고금리로 인한 조달 비용 상승 및 가맹점 수수료 인하 압박
+* **수익성 하락:** 고금리로 인한 조달 비용 상승 및 가맹점 수수료 인하 압박으로 전반적인 카드사 수익 약화
 * **건전성 악화:** 우리카드 등 주요 카드사의 장기 연체율 급증(전년 대비 약 449% 증가 사례 등)으로 리스크 관리 비상
 
 <br>
@@ -42,6 +42,13 @@
 
 ### ⚙️ 데이터 전처리 
 * **DuckDB**를 활용해 로컬에서 SQL로 데이터를 가공
+
+```MySQL
+WITH twenties AS (SELECT * FROM wooricarddata WHERE AGE IN ('60', '65')),
+     unpivoted
+         AS (SELECT category, amount FROM twenties UNPIVOT ( amount FOR category IN ( RESTRNT_AM, GROCERY_AM, GOODS_AM, CLOTHGDS_AM, CULTURE_AM, LEISURE_P_AM, LEISURE_S_AM, TRVL_AM, FUEL_AM, SVC_AM, HOS_AM, HOTEL_AM, AUTO_AM, APPLNC_AM, OPTIC_AM, BOOK_AM, RPR_AM, KITWR_AM, FABRIC_AM, ACDM_AM, MBRSHOP_AM )) )
+SELECT category, SUM(amount) AS total_amountFROM unpivotedGROUP BY categoryORDER BY total_amount DESCLIMIT 10;
+```
 
 <br>
 
